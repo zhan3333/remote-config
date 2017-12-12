@@ -1,0 +1,6 @@
+{
+    "day": {
+        "stop-nginx": false,
+        "restart-nginx": true
+    }
+}
